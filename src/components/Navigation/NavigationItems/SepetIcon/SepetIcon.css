@@ -1,0 +1,25 @@
+.SepetIcon{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.Icon{
+    box-sizing: border-box;
+    position: relative;
+    top:12px;
+
+}
+
+.Rakam{
+    text-align: right;
+    box-sizing: border-box;
+    color: #e73737;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top:-34px;
+}
+

@@ -1,0 +1,14 @@
+.Orders{
+    margin: 75px auto;
+}
+
+.Order{
+    width: 60%;
+    height: 20%;
+    border: 1px solid #cccd;
+    border-radius:3px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 3px #cccd;
+    padding: 5px;
+    margin: 5px auto;
+}

@@ -1,0 +1,39 @@
+.BuildControls{
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    margin:auto;
+    display: block;
+    
+}
+.Parca{
+    width: 66%;
+    text-align: center;
+    margin:10px auto;
+    box-sizing: border-box;
+}
+
+@media (min-width:500px){
+    .BuildControls{
+        display: -webkit-flex;
+        flex-wrap: wrap;
+        padding: 40px 100px;
+        justify-content: space-around;
+        box-sizing: border-box;
+            
+    }
+    .Parca{
+        width:35%;
+        margin: 20px auto;
+        text-align: center;
+    }
+}
+
+@media (min-width:1000px){
+
+    .Parca{
+        width: 240px;
+        height: 320px;
+        margin: 20px 15px;
+        
+    }
+}

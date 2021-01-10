@@ -1,0 +1,16 @@
+@media (max-width:499px){
+    .DrawerToggle{
+        width:12%;
+        height: 20px;
+        box-sizing: border-box;
+        border-radius: 5px;
+    
+    }
+    
+    .DrawerToggle div{
+        background-color: black;
+        margin: 3px auto;
+        border: 1px solid black;
+    }
+
+}
